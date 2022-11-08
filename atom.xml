@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://murphylai.github.io</id>
+    <title>𝑀𝑢𝑟𝑝ℎ𝑦 · 𝐿𝑎𝑖</title>
+    <updated>2022-11-08T12:52:52.888Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://murphylai.github.io"/>
+    <link rel="self" href="https://murphylai.github.io/atom.xml"/>
+    <subtitle>𝔅𝔢𝔩𝔦𝔢𝔣</subtitle>
+    <logo>https://murphylai.github.io/images/avatar.png</logo>
+    <icon>https://murphylai.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 𝑀𝑢𝑟𝑝ℎ𝑦 · 𝐿𝑎𝑖</rights>
+    <entry>
+        <title type="html"><![CDATA[💪🤠NP粉丝后援会]]></title>
+        <id>https://murphylai.github.io/post/NPfans/</id>
+        <link href="https://murphylai.github.io/post/NPfans/">
+        </link>
+        <updated>2022-11-08T11:54:15.000Z</updated>
+        <content type="html"><![CDATA[<p>加油！NP！💪🤠<br>
+秦时明月<br>
+龙城飞将<br>
+大漠孤烟<br>
+长河落日<br>
+江枫渔火<br>
+<a href="https://imgse.com/i/xzESjs"><img src="https://s1.ax1x.com/2022/11/08/xzESjs.jpg" alt="xzESjs.jpg" border="0" /></a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🙋 𝐷𝑎𝑖𝑙𝑦 𝐿𝑖𝑓𝑒 | 𝐴𝑐𝑎𝑑𝑒𝑚𝑖𝑐 𝑅𝑒𝑠𝑒𝑎𝑟𝑐ℎ | 𝐻𝑖𝑠𝑡𝑜𝑟𝑦 𝑃𝑜𝑝𝑢𝑙𝑎𝑟𝑖𝑧𝑎𝑡𝑖𝑜𝑛]]></title>
+        <id>https://murphylai.github.io/post/Daily-page/</id>
+        <link href="https://murphylai.github.io/post/Daily-page/">
+        </link>
+        <updated>2021-12-31T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1 style="font-size: 46px; text-align:center;">𝓗𝓲, 𝓽𝓱𝓮𝓻𝓮!</h1>]]></content>
+    </entry>
+</feed>
